@@ -65,3 +65,10 @@ doc/generated/
 
 # PyBuilder
 target/
+
+# Virtual environments
+venv/
+.venv/
+
+# Frontend / OS
+.DS_Store
